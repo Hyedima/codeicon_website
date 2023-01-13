@@ -1,0 +1,116 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("../fonts/flaticoncc7c.ttf?a380d8a5bcded706f69720bdfeaf316a") format("truetype"),
+url("../fonts/flaticoncc7c.woff?a380d8a5bcded706f69720bdfeaf316a") format("woff"),
+url("../fonts/flaticoncc7c.woff2?a380d8a5bcded706f69720bdfeaf316a") format("woff2"),
+url("../fonts/flaticoncc7c.eot?a380d8a5bcded706f69720bdfeaf316a#iefix") format("embedded-opentype"),
+url("../fonts/flaticoncc7c.svg?a380d8a5bcded706f69720bdfeaf316a#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-support:before {
+    content: "\f101";
+}
+.flaticon-cloud:before {
+    content: "\f102";
+}
+.flaticon-cyber-security:before {
+    content: "\f103";
+}
+.flaticon-server:before {
+    content: "\f104";
+}
+.flaticon-happy:before {
+    content: "\f105";
+}
+.flaticon-award:before {
+    content: "\f106";
+}
+.flaticon-mission:before {
+    content: "\f107";
+}
+.flaticon-suitcase:before {
+    content: "\f108";
+}
+.flaticon-envelope:before {
+    content: "\f109";
+}
+.flaticon-pin:before {
+    content: "\f10a";
+}
+.flaticon-left-quote:before {
+    content: "\f10b";
+}
+.flaticon-project:before {
+    content: "\f10c";
+}
+.flaticon-phone-call:before {
+    content: "\f10d";
+}
+.flaticon-world:before {
+    content: "\f10e";
+}
+.flaticon-clock:before {
+    content: "\f10f";
+}
+.flaticon-email-marketing:before {
+    content: "\f110";
+}
+.flaticon-header:before {
+    content: "\f111";
+}
+.flaticon-layout:before {
+    content: "\f112";
+}
+.flaticon-cyber-security-1:before {
+    content: "\f113";
+}
+.flaticon-gear:before {
+    content: "\f114";
+}
+.flaticon-communities:before {
+    content: "\f115";
+}
+.flaticon-data-management:before {
+    content: "\f116";
+}
+.flaticon-leader:before {
+    content: "\f117";
+}
+.flaticon-briefing:before {
+    content: "\f118";
+}
+.flaticon-cloud-server:before {
+    content: "\f119";
+}
+.flaticon-secure-shield:before {
+    content: "\f11a";
+}
+.flaticon-medal:before {
+    content: "\f11b";
+}
+.flaticon-world-1:before {
+    content: "\f11c";
+}
+.flaticon-route:before {
+    content: "\f11d";
+}
+.flaticon-phone-call-1:before {
+    content: "\f11e";
+}
+.flaticon-chatting:before {
+    content: "\f11f";
+}
+.flaticon-diamond:before {
+    content: "\f120";
+}
