@@ -1,0 +1,3 @@
+to commit 
+git commit -m "update picture"
+git push

@@ -86,17 +86,17 @@ p {
 }
 
 *::-moz-selection { 
-    background: #ff382f; 
+    background: #FDCD05; 
     color: #fff; 
     text-shadow: none; 
 }
 ::-moz-selection { 
-    background: #ff382f; 
+    background: #FDCD05; 
     color: #fff;
     text-shadow: none; 
 }
 ::selection { 
-    background: #ff382f; 
+    background: #FDCD05; 
     color: #fff; 
     text-shadow: none; 
 }
@@ -176,7 +176,7 @@ input[type="email"]:focus,
 input[type="url"]:focus, 
 input[type="tel"]:focus, 
 input[type="color"]:focus {
-    border: 1px solid #ff382f;
+    border: 1px solid #FDCD05;
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
     -webkit-appearance: searchfield;
@@ -216,7 +216,7 @@ menu, ol, ul {
     --base-bodyfont: "Lato", sans-serif;
     --base-bodyfont-Size: 15px;
     --base-bodyfont-color: #676b72;    
-    --base-skin: #ff382f;
+    --base-skin: #FDCD05;
     --base-dark: #05255f;
     --base-grey: #f5f5f5;
     --base-white: #ffffff;    
